@@ -242,6 +242,10 @@ List of non-official ports of LangChain to other languages.
 - [LangChain James Briggs' Playlist](https://www.youtube.com/watch?v=nE2skSRWTTs&list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F)
 - [Greg Kamradt Playlist](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 
+### Books
+
+- [AI Apps with LangChain](https://www.manning.com/books/ai-apps-with-langchain)
+
 ## Other LLM Frameworks
 
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
