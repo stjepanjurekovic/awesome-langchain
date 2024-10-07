@@ -27,6 +27,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Learn](#learn)
     - [Notebooks](#notebooks)
     - [Videos Playlists](#videos-playlists)
+    - [Books](#books)
   - [Other LLM Frameworks](#other-llm-frameworks)
   - [Complement to this list](#complement-to-this-list)
   - [Unmaintained](#unmaintained)
